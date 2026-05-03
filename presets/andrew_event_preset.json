@@ -84,7 +84,7 @@
       "q_image_scale": 1.0,
       "explanation_text": "The man is the architect. But don't tell him I said that.",
       "explanation_text_scale": 1.5,
-      "explanation_image_path": "E:/20 mmov/пикчи/shush_emoji_рука_у_рта_эмоджи_смайл_тише_тише-removebg-preview.png",
+      "explanation_image_path": "",
       "explanation_image_scale": 1.0
     },
     {
@@ -400,7 +400,7 @@
           "media_mode": "inline"
         }
       ],
-      "image_path": "W:/идеи видосов по проектам/Всякая хуйня под ивенты/andrew event/10.png",
+      "image_path": "presets_media/andrew_event/10.png",
       "text_scale": 1.0,
       "answer_text_scale": 2.07,
       "answer_image_scale": 1.0,
@@ -429,7 +429,7 @@
           "media_mode": "inline"
         }
       ],
-      "image_path": "W:/идеи видосов по проектам/Всякая хуйня под ивенты/andrew event/11.png",
+      "image_path": "presets_media/andrew_event/11.png",
       "text_scale": 1.0,
       "answer_text_scale": 2.45,
       "answer_image_scale": 1.0,
@@ -472,7 +472,7 @@
           "media_mode": "inline"
         }
       ],
-      "image_path": "W:/идеи видосов по проектам/Всякая хуйня под ивенты/andrew event/12.png",
+      "image_path": "presets_media/andrew_event/12.png",
       "text_scale": 1.0,
       "answer_text_scale": 2.05,
       "answer_image_scale": 1.0,
@@ -537,7 +537,7 @@
           "media_mode": "inline"
         }
       ],
-      "image_path": "W:/идеи видосов по проектам/Всякая хуйня под ивенты/andrew event/bald messi.jpg",
+      "image_path": "presets_media/andrew_event/bald messi.jpg",
       "text_scale": 1.0,
       "answer_text_scale": 2.07,
       "answer_image_scale": 1.0,
@@ -634,8 +634,8 @@
       "explanation_image_scale": 1.0
     }
   ],
-  "bg_image": "W:/идеи видосов по проектам/Всякая хуйня под ивенты/andrew event/banner.jpg",
-  "end_image": "W:/идеи видосов по проектам/Всякая хуйня под ивенты/andrew event/end screen.jpg",
+  "bg_image": "presets_media/andrew_event/banner.jpg",
+  "end_image": "presets_media/andrew_event/end screen.jpg",
   "cell_border_color": "#6366F1",
   "cell_bg_color": "rgba(10,14,26,210)"
 }
