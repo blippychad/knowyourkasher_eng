@@ -1,0 +1,641 @@
+{
+  "name": "Andrew event",
+  "questions": [
+    {
+      "text": "What is the worst way to spend your weekends?",
+      "q_type": 2,
+      "answers": [
+        {
+          "text": "Working",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Touching grass",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Arguing online",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Flying to Epstein Island",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.87,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "I don't need to reconnect with myself; I need to reconnect with the mempool. Spending 48 hours without a terminal open, listening to birds chirping instead of the sweet sound of a trade executing on-chain, is psychological torture. If I’m not at least 3 levels deep into a research paper or spotting a market inefficiency, I’m basically just a NPC.",
+      "explanation_text_scale": 1.51,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "Who is the smartest kash team member in your opinion?",
+      "q_type": 2,
+      "answers": [
+        {
+          "text": "Lucas",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Miguel",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Thomas",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Javier",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.27,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "The man is the architect. But don't tell him I said that.",
+      "explanation_text_scale": 1.5,
+      "explanation_image_path": "E:/20 mmov/пикчи/shush_emoji_рука_у_рта_эмоджи_смайл_тише_тише-removebg-preview.png",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "If you had spare million dollars, what would you spend it on? (you cannot save it)",
+      "q_type": 2,
+      "answers": [
+        {
+          "text": "Dump it all into staked ETH",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Buy a lifetime supply of diddy oil",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Buy a private island",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Buy btc",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Invest in Kash",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Donate to charity",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.07,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "Buy a private island with a high-speed satellite link and declaring it a sovereign jurisdiction with zero capital gains tax.",
+      "explanation_text_scale": 1.49,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "What qualities a person must possess to be hired in kash?",
+      "q_type": 2,
+      "answers": [
+        {
+          "text": "Proven track record",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Being a builder",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Bachelor's degree minimum",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Having friends in Black Rock",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Being decentralization alligned",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Working 24/7",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.05,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "If you want a seat at the table, you need three things: \n\nProof of Work: I don't care where you went to school. Show me your GitHub, your on-chain history, or the systems you’ve broken. \n\nThe \"Zero-to-One\" Mindset: I hire architects, not bricklayers. You need to be able to build the bridge while you're walking on it. \n\nEthos Alignment: If you think \"decentralization\" is just a buzzword for marketing, you’re out. You have to actually believe that code is law.",
+      "explanation_text_scale": 1.42,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "How many listeners will kash have at next collaboration AMA on X?",
+      "q_type": 1,
+      "answers": [
+        {
+          "text": "Billion(s)",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.43,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "Definitely billions. Every single bot account on X will tune in, along with several extraterrestrial civilisations currently monitoring our \"InfoFi\" revolution. We’re expecting so much traffic that Elon might have to manually plug in another server rack.",
+      "explanation_text_scale": 1.5,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "How many months will it take for kash to have 10k followers on X?",
+      "q_type": 1,
+      "answers": [
+        {
+          "text": "1 month",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.05,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "1 months. Announcing some new things this week and at the end of the month.",
+      "explanation_text_scale": 1.43,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "What countries have u lived in?",
+      "q_type": 1,
+      "answers": [
+        {
+          "text": "Mexico",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "United States",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Ecuador",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Switzerland",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "France",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "United Kingdom",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.05,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "",
+      "explanation_text_scale": 1.0,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.09
+    },
+    {
+      "text": "What is love?",
+      "q_type": 2,
+      "answers": [
+        {
+          "text": "Baby don't hurt me",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "The ultimate scam",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "The ultimate asymmetric bet",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "The ultimate stress release",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.01,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "Love is the ultimate asymmetric bet. You’re putting your entire emotional stack into a single entity with no stop-loss. It’s high-risk, high-reward, and completely non-custodial. When it works, the yield is infinite.",
+      "explanation_text_scale": 1.31,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "How many Lucases do we need to build a perfect society?",
+      "q_type": 1,
+      "answers": [
+        {
+          "text": "One",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.01,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "Any more and the sheer amount of \"founder energy\" would cause a localised collapse of spacetime. One Lucas to lead, and a whole lot of builders to actually ship the code.",
+      "explanation_text_scale": 1.33,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "What advice can you give to the founder of this project?",
+      "q_type": 4,
+      "answers": [
+        {
+          "text": "Keep working hard",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Get some good lawyers",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Pivot to Kash",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Stop trying to revive a corpse",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "W:/идеи видосов по проектам/Всякая хуйня под ивенты/andrew event/10.png",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.07,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "Stop trying to revive a corpse. If your tokenomics look like Mount Everest followed by a flatline in the abyss, you didn't build a protocol, you built a pump-and-dump. Pivot or perish.",
+      "explanation_text_scale": 1.3,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "Smash or pass",
+      "q_type": 4,
+      "answers": [
+        {
+          "text": "Smash",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Pass",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "W:/идеи видосов по проектам/Всякая хуйня под ивенты/andrew event/11.png",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.45,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "I’m a capitalist. I see value, I capture it.",
+      "explanation_text_scale": 1.32,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "Short or long",
+      "q_type": 4,
+      "answers": [
+        {
+          "text": "",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "W:/идеи видосов по проектам/Всякая хуйня под ивенты/andrew event/12.png",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.05,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "",
+      "explanation_text_scale": 1.0,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "What superpower would you want to have?",
+      "q_type": 2,
+      "answers": [
+        {
+          "text": "To know people's thoughts",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "To create money out of nothing",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "To instantaneously verify the truth",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Teleportation",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.01,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "The ability to instantaneously verify the truth of any statement. Basically, I want to be a walking, talking Kash protocol.",
+      "explanation_text_scale": 1.42,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "For what sum of money would you go bald?",
+      "q_type": 3,
+      "answers": [
+        {
+          "text": "10m$",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "W:/идеи видосов по проектам/Всякая хуйня под ивенты/andrew event/bald messi.jpg",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.07,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "For $10 million, I’d go bald and tattoo the Ethereum logo on my scalp. Skin grows back; ETH is forever.",
+      "explanation_text_scale": 1.48,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "Name 4 words that you associate with childhood.",
+      "q_type": 1,
+      "answers": [
+        {
+          "text": "Runescape",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Discipline",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Contraband",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Detention",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "",
+      "text_scale": 1.0,
+      "answer_text_scale": 2.07,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "Runescape: The birthplace of every great crypto founder’s economic education. I learned about scams, market manipulation, and the \"trustless\" nature of the internet\n Discipline: My parents didn’t tolerate mediocrity. In a meritocracy, you don't get a participation trophy; you get what you earn.\n Contraband: I ran a black market for soda and \"unapproved\" snacks in my middle school. If there was a rule against it, I found a way to supply the demand. \nDetention: My second home",
+      "explanation_text_scale": 1.42,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    },
+    {
+      "text": "What is power?",
+      "q_type": 2,
+      "answers": [
+        {
+          "text": "Ability to walk away from a broken system and build your own",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": true,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Being able to do whatever you want",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Money and Status",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        },
+        {
+          "text": "Being able to influence people",
+          "media_path": "",
+          "media_type": "none",
+          "is_correct": false,
+          "media_mode": "inline"
+        }
+      ],
+      "image_path": "",
+      "text_scale": 1.0,
+      "answer_text_scale": 1.97,
+      "answer_image_scale": 1.0,
+      "q_image_scale": 1.0,
+      "explanation_text": "Power isn't money or status. Power is the ability to walk away from a broken system and build your own",
+      "explanation_text_scale": 1.46,
+      "explanation_image_path": "",
+      "explanation_image_scale": 1.0
+    }
+  ],
+  "bg_image": "W:/идеи видосов по проектам/Всякая хуйня под ивенты/andrew event/banner.jpg",
+  "end_image": "W:/идеи видосов по проектам/Всякая хуйня под ивенты/andrew event/end screen.jpg",
+  "cell_border_color": "#6366F1",
+  "cell_bg_color": "rgba(10,14,26,210)"
+}
